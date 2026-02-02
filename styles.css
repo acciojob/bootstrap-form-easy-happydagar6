@@ -1,13 +1,12 @@
-
-/* Your CSS Code here. */
 /* style.css */
 .form-container {
-    padding: 20px;
+    background: white;
+    padding: 30px;
     border: 1px solid #dee2e6;
-    border-radius: 5px;
-    margin-top: 50px;
+    border-radius: 0.5rem;
+    margin-top: 3rem;
 }
 
 h2 {
-    font-weight: bold;
+    font-weight: 600;
 }
